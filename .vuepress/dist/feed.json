@@ -1,0 +1,33 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hello VuePress",
+    "home_page_url": "http://locahost:8080",
+    "feed_url": "http://locahost:8080/feed.json",
+    "description": "Just playing around",
+    "items": [
+        {
+            "id": "http://locahost:8080/2018/04/04/intro-to-vuepress/",
+            "url": "http://locahost:8080/2018/04/04/intro-to-vuepress/",
+            "title": "Title used in feed",
+            "summary": "Description used in feed",
+            "image": "/public/image.png",
+            "date_modified": "2018-04-03T15:00:00.000Z",
+            "author": {
+                "name": "Author",
+                "url": "http://doamin.tld"
+            }
+        },
+        {
+            "id": "http://locahost:8080/2019/06/08/intro-to-vuepress-next/",
+            "url": "http://locahost:8080/2019/06/08/intro-to-vuepress-next/",
+            "title": "Hello VuePress",
+            "date_modified": "2019-06-07T15:00:00.000Z"
+        },
+        {
+            "id": "http://locahost:8080/1970/01/01/posts/",
+            "url": "http://locahost:8080/1970/01/01/posts/",
+            "title": "TOP page",
+            "date_modified": "2019-10-15T08:56:23.569Z"
+        }
+    ]
+}
